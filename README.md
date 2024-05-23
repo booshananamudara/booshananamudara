@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **java,mern**
 
-- 📫 How to reach me **me-booshana.web.app**
+- 📫 How to reach me **booshiwork@gmail.com**
+
+- 🌐 Search me **https://me-booshana.web.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
